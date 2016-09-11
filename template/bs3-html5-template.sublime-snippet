@@ -26,7 +26,7 @@
 
 		
 		<!-- Bootstrap JavaScript -->
-		<script src="${5http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js}"></script>
+		<script src="${5:http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js}"></script>
 	</body>
 </html>
 ]]></content>
